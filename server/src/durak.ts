@@ -151,6 +151,10 @@ export class Durak {
     }
   }
 
+  insertPlayerCard() {
+    
+  }
+
   getPlayers() {
     return this.players.length;
   }
